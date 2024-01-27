@@ -1,6 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Yahya Ayas Firdausi</h1>
 <h3 align="center">Undergraduate students who have interest in programming and project management</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="![image](https://github.com/Yahyaayas/Yahyaayas/assets/109894445/f73036c5-171d-4665-b366-c7e243bf1315)
+">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yahyaayas&label=Profile%20views&color=0e75b6&style=flat" alt="yahyaayas" /> </p>
 

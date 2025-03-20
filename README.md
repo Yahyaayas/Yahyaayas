@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yahyaayas&label=Profile%20views&color=0e75b6&style=flat" alt="yahyaayas" /> </p>
 
-- 🌱 I’m currently learning **C++, ReactJs, JavaScript, and project management**
+- 🌱 I’m currently learning **C++, Python, ReactJs, JavaScript, and project management**
 
 - 📫 My UGM Email **yahyaayasfirdausi@mail.ugm.ac.id**
 
